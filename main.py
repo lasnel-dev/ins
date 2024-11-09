@@ -22,4 +22,3 @@ def check_material(amount_of_material, limit_value):
     else:
         raise BuildingError(amount_of_material)
 
-    
